@@ -48,7 +48,7 @@
 }
 /* Global Styles */
 :root {
-  --primary-color: #e95a08;
+  --primary-color: #d65408;
   --text-color: #333333;
   --light-text: #666666;
   --background-light: #fff9f5;
@@ -176,7 +176,7 @@ header {
 }
 
 .primary-text {
-  color: #e95a08;
+  color: #d65408;
 }
 
 .banner-content p {
@@ -449,7 +449,7 @@ header {
   color: white;
   text-decoration: none;
   font-weight: 500;
-  border-bottom: 2px solid #e95a08;
+  border-bottom: 2px solid #d65408;
   padding-bottom: 3px;
   transition: all 0.3s ease;
   font-size: clamp(14px, 1.5vw, 18px);
@@ -458,7 +458,7 @@ header {
   font-size: clamp(8px, 0.8vw, 10px);
 }
 .shop-link:hover {
-  color: #e95a08;
+  color: #d65408;
   border-bottom-color: white;
 }
 
@@ -536,7 +536,7 @@ header {
 
 .footer-logo h3 {
   font-size: 24px;
-  color: #e95a08;
+  color: #d65408;
   margin-bottom: 15px;
 }
 
@@ -564,7 +564,7 @@ header {
 }
 
 .links-column a:hover {
-  color: #e95a08;
+  color: #d65408;
 }
 
 .social-links {
@@ -579,7 +579,7 @@ header {
 }
 
 .social-links a:hover {
-  color: #e95a08;
+  color: #d65408;
 }
 
 /* Mobile Responsiveness */
